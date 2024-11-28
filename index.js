@@ -38,6 +38,6 @@ app.get('/blogs', (req, res) => {
   res.json({ blogs: JSON.parse(blog())})
 })
 
-// app.listen(port, () => {
-//   console.log(`[server]: Server is running at http://localhost:${port}`)
-// })
+app.listen(port, () => {
+  console.log(`[server]: Server is running at http://localhost:${port}`)
+})
