@@ -10,7 +10,7 @@ export default function profile() {
   const phoneWA = "6281339486902";
   const address = "Bali, Id"
   const highlight = `Fullstack and Machine Learning Developer based in ${address}`;
-  const about = "My name is I Komang Gede Apriana. Ever since my time in high school, I've found a profound interest in the realm of computers, with a specific focus on computer network engineering. Presently, I am fully engaged as a cohort in Dicoding, Frontend Backend program, enriching my skills and knowledge in this dynamic field. Alongside this, I am pursuing a degree in informatics at Udayana University, where I continue to explore and deepen my understanding of the vast world of computer science."
+  const about = "I Komang Gede Apriana is a passionate Fullstack and Machine Learning developer from Bali, Indonesia. Currently studying Informatics Engineering at Udayana University, they are dedicated to mastering various technologies. With a strong drive to innovate, their future goal is to become a Software Engineer, contributing to cutting-edge solutions in the tech industry."
   const phone = "(+62) 813 3948 6902";
   const email = "gedeapriana36@gmail.com";
   const instagram = "gdaprianaa";
