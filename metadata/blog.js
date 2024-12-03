@@ -3,6 +3,7 @@ export default function blog() {
     {
       title: "5 Ways of Adaptability: How I Adapted at Bangkit Academy 2023",
       slug: "5-ways-of-adaptability-how-i-adapted-at-bangkit-academy-2023",
+      cover: "https://media.licdn.com/dms/image/v2/D5612AQF_3U429ZUgtQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697374360881?e=1738800000&v=beta&t=8Abg5pUHsBDP0xkNT8V0Vhj8s0Wzyic_AHPvAlRWazg",
       description: "Hello, everyone. I am I Komang Gede Apriana, a participant of the Bangkit 2023 program. I am following the machine learning path, which is one of the three tracks offered by the program. I will describe how I adapted to five different ways of interacting, achieving, learning, working, and thinking throughout the program.",
       createdAt: new Date("2023-09-01"),
       readingTime: 5,
@@ -23,6 +24,7 @@ export default function blog() {
     },
     {
       title: "How I Built My First App: Lessons from Developing ThousandTemples",
+      cover: "https://images.unsplash.com/photo-1598316560453-0246d4611979?q=80&w=2944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       slug: "how-i-built-my-first-app-lessons-from-developing-thousand-temples",
       description: "Discover how I created my first app, ThousandTemples, which showcases Bali's culture and destinations. Learn about the challenges I faced, the technologies I used, and the lessons I learned.",
       createdAt: new Date("2023-10-15"),
@@ -41,6 +43,7 @@ export default function blog() {
     },
     {
       title: "Breaking Down Clickbait: Behind the Scenes of My Clickbait Detector",
+      cover: "https://images.unsplash.com/photo-1598316560453-0246d4611979?q=80&w=2944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       slug: "breaking-down-clickbait-behind-the-scenes-of-my-clickbait-detector",
       description: "Explore the process of developing a clickbait detection system, including its technical implementation and the challenges faced during development.",
       createdAt: new Date("2023-11-10"),
